@@ -1,21 +1,19 @@
-## Bem-vindo(a) ao perfil do IgorVn 😁
+## Bem-vindo(a) ao perfil do IgorVn
 
 Olá! Eu sou o Igor e estou estudando conteudos sobre Desenvolvimento Web.
 
  <div>
-   <a href="https://github.com/devemdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor9090&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor9090&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Igor9090">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Igor9090&show_icons=true&bg_color=4B0082&include_all_commits=true&count_private=true&text_color=fff&title_color=836FFF"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor9090&layout=compact&langs_count=6&bg_color=4B0082&text_color=fff&title_color=836FFF"/>
 </div>
 
 ## HABILIDADES
 
-<div style="display: inline_block"><br>
-  [JavaScript]<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  [HTML]<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  [CSS]<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&color=4B0082)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&color=4B0082)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&color=4B0082)
+
 <br>
  
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
